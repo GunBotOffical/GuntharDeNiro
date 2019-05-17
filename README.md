@@ -1,4 +1,4 @@
-
+#
 
     Fix an issue with Kraken not starting for some users.
     Fix bittrex bid/ask being reverted.
@@ -15,3 +15,4 @@
     Fix "min precision" undefined in some gdax currencies.
     stop sending telegram old orders messages forever.
     Fix TV plugin.
+#
